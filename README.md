@@ -2,7 +2,7 @@
 
 # best chess analysis bot made for educational purposes only !! 
 
-# Fork from Sayfpack
+# Forked from Sayfpack
 
 # Description:
 Our chess analysis system is designed to give players the edge they need to win.
