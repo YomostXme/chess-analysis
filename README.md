@@ -1,9 +1,8 @@
 # Smart Chess Bot: The Ultimate Chess Analysis System
 
-# best chess analysis bot made for educational purposes only !!
+# best chess analysis bot made for educational purposes only !! 
 
-# Tutorial: https://www.youtube.com/watch?v=WaqI4l_hmIE&ab_channel=Sayfpack
-
+# Fork from Sayfpack
 
 # Description:
 Our chess analysis system is designed to give players the edge they need to win.
@@ -25,7 +24,10 @@ Works well with almost every browser including Chrome, Firefox, Edge, and Opera.
 2) TamperMonkey Script: https://greasyfork.org/en/scripts/460147-c-a-s-chess-assistance-system
 3) Allow pop-ups !!
 4) if you want to use node server to run chess engine on your system:
-- Tutorial: https://www.youtube.com/watch?v=WaqI4l_hmIE&ab_channel=Sayfpack
+   - Clone the repo
+   - Put your engine in utils/engine
+   - Run exe
+   - Config your Engine URL and Engine Name
 
 
 # SCREENSHOTS
